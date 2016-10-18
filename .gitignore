@@ -1,13 +1,7 @@
-in-wetslide-PROD.php
-in-wetslide-BETA.php
+in-wetslide-core
 
-_script.js
-nivo-slider/*
-
-*DS_Store
-**/*DS_Store
+.DS_Store
+**/.DS_Store
 **/**/*DS_Store
 
-includes/lib/minervajs/minerva.js
-includes/lib/minervajs/minerva.css
-includes/lib/minervajs/minerva-widget.js
+includes/lib/minervajs/minerva.custom.css
