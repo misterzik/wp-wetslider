@@ -1,10 +1,23 @@
-# Wet-Slider :smirk:
-### Wordpress Plugin
+# Wordpress WetSlider :smirk:
+### Wordpress Plugin Carousel
 ---
-WetSlider Plugin for Wordpress - Simple Carousel Slider with a splash of style.
 
-Easy to Install & Use. Post new sliders through the backe-end,
-http://insanen.com
+WetSlider Carousel Plugin for Wordpress CMS - Simple and elegant carousel slider with a splash of style for Wordpress CMS.
+
+## Installation
+
+* Download or Clone Repository
+* Upload to `wp-content/plugins/`
+* Head to plugins section on `wp-admin` and activate plugin.
+
+## Usage
+
+* Post a new image slider by going to your dashboard section on `wp-admin`.
+* Look for your newly installed section by the name of `Wet Sliders` and Click `Add New Wetslider`
+* Create the image thumbnail by adding a feature image to the post, and title.
+* On the page you would like to display the slider please place the following shortcode.
+`[wetslider]`
+
 
 ![Wet Slider](Wet_Slider-List.png)
 
