@@ -3,11 +3,11 @@
     Plugin Name: Wet-Slider Wordpress Carousel Plugin
     Description: WordPress Quick WetSlider with class for your blog.
     Author: Insanen Team - http://insanen.com
-    Version: 1.0.1
+    Version: 1.0.2
 */
 
 /**
- *  @version	1.0.1
+ *  @version	1.0.2
  */
 
 if (!defined('WPINC')) {
